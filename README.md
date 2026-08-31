@@ -1,22 +1,45 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Joaquín Barrozo
 
-<!--
-**NIK02222/NIK02222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de **Ingeniería Informática** y programador en formación.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo y trabajando con diferentes tecnologías, buscando mejorar mis habilidades y adquirir experiencia desarrollando proyectos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->Sobre Mi
-Me gustan los juegos de computadora y aprender a programar en distintos idiomas de programación 
-Mis gustos 
-•Gym
-•Programa 
-•Video juegos 
+### 🚀 Sobre mí
 
+- 🎓 Estudiante de Ingeniería Informática en UCASAL
+- 💻 Programador en formación
+- 🐍 Mi lenguaje favorito actualmente es Python
+- 🌱 Aprendiendo Python, Java y C++
+- 🛠️ Uso Git, GitHub, VS Code y Tkinter
+- 🤝 Actualmente trabajando junto a compañeros de la universidad en **ConectaNOA**
+- 🤖 Utilizo herramientas de Inteligencia Artificial como apoyo para programar, aprender y resolver problemas
+- 🎮 Me gustan los videojuegos
+- 📚 Siempre buscando aprender algo nuevo
+
+### 🔭 Actualmente estoy interesado en
+
+- 🌐 Desarrollo Web
+- 🤖 Inteligencia Artificial
+- 🧠 Redes Neuronales
+- 📊 Ciencia de Datos
+- 🔐 Ciberseguridad
+- 💻 Desarrollo de software
+
+### 🏆 Proyecto destacado
+
+**ConectaNOA**
+
+Proyecto desarrollado junto a compañeros de la universidad, donde estamos poniendo en práctica nuestros conocimientos de programación y desarrollo de software.
+
+### 🧠 Una frase que me representa
+
+> "No siempre fallar significa fracasar; muchas veces significa aprender, mejorar y volver a intentarlo."
+
+### 📫 Contacto
+
+- 💼 LinkedIn: https://www.linkedin.com/in/joaquin-barrozo-701803432/
+- 📧 Email: joaquinbarrozo07@gmail.com
+
+---
+
+⭐ Gracias por visitar mi perfil.
