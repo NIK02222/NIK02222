@@ -13,5 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Sobre Mi
+Me gustan los juegos de computadora y aprender a programar en distintos idiomas de programación 
+Mis gustos 
+•Gym
+•Programa 
+•Video juegos 
 
