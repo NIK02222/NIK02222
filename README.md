@@ -16,6 +16,8 @@ Actualmente estoy aprendiendo y trabajando con diferentes tecnologías, buscando
 - 🎮 Me gustan los videojuegos
 - 📚 Siempre buscando aprender algo nuevo
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIK02222&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔭 Actualmente estoy interesado en
 
 - 🌐 Desarrollo Web
